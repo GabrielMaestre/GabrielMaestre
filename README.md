@@ -1,6 +1,8 @@
----***Olá, sou programador voltado para linguagem: C#***
+***Olá, sou programador voltado para linguagem: C#***
 
-<b>Github Stats</b>
+<br><br><br>
+
+***Github Stats***
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=GabrielMaestre&show_icons=true&theme=radical" alt="GabrielMaestre" /></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMaestre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
