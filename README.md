@@ -8,7 +8,7 @@
 
 ### Spotify 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD)
+[![Spotify](https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD)](https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD)
 
 ---
 
