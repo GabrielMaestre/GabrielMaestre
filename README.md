@@ -2,16 +2,6 @@
 
 <br><br>
 
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify 🎧
-
-[![Spotify](https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD)](https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD)
-
----
-
 ### Linguagens e Ferramentas 🛠 
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
