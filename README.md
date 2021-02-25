@@ -1,16 +1,18 @@
-### Hi there 👋
+---***Olá, sou programador voltado para linguagem: C#***
 
-<!--
-**GabrielMaestre/GabrielMaestre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>Github Stats</b>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=GabrielMaestre&show_icons=true&theme=radical" alt="GabrielMaestre" /></p>
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMaestre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<hr>
+
+[🦜 PaPaGaIo](https://cultofthepartyparrot.com):
+
+	<div>
+		<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+	</div>
+	
+	-----
+Credits: [GabrielMaestre](https://github.com/GabrielMaestre)
