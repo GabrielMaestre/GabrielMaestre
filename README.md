@@ -8,14 +8,32 @@
 ![NodeJS](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![PHP](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=php&logoColor=ffffff)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Visual Studio](http://img.shields.io/badge/-Visual%20Studio-892CA0?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
+#### Banco de Dados
+
+![MySql](https://img.shields.io/badge/MySQL-326DE6?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![PL-SQL](https://img.shields.io/badge/PLSQL-CA2136?style=for-the-badge&logo=oracle&logoColor=white)
+
+#### Cloud
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![OCI](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+#### OS
+
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Ubuntu/Linux](https://img.shields.io/badge/Ubuntu-E34F26?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+#### Extra
+
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <br/>
 
@@ -36,4 +54,3 @@
 </div>
 
 -----
-Credits: [GabrielMaestre](https://github.com/GabrielMaestre)
