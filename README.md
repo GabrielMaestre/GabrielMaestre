@@ -22,7 +22,7 @@
 #### Cloud
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![OCI](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle_Cloud-C74634?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 #### OS
 
