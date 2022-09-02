@@ -4,7 +4,7 @@
 
 ### Linguagens e Ferramentas 🛠 
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=ffffff)
+![C#](https://img.shields.io/badge/C%23-892CA0?style=flat-square&logo=c-sharp&logoColor=ffffff)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
