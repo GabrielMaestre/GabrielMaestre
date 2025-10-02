@@ -1,4 +1,4 @@
-***Olá, sou um programador voltado para Linguagem: C# & Node.JS***
+***Olá, sou Analista Consultor Especialista em Observabilidade, e Dev. Pleno/Sr | C#, Web, Python, Database, Entendimento Geral de TI***
 <br><br>
 
 ### Linguagens e Ferramentas 🛠 
